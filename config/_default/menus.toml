@@ -8,6 +8,16 @@
   url = "#about"
   weight = 10
 
+[[main]]
+name = "Conferences"
+url = "/conference/"
+weight = 20
+
+[[main]]
+name = "Extracurricular"
+url = "/extracurricular/"
+weight = 30
+
 # [[main]]
 #   name = "Posts"
 #   url = "#posts"
