@@ -6,7 +6,7 @@ date: 2023-11-14  # Date of creation or last update
 
 ## RNA Therapeutics & Delivery U.S. 
 **June 2022** 
-{{< figure src="static/img/Picture1.jpg" width="80%" >}}
+<img src="https://github.com/mengdibme/academic-page/blob/master/static/img/Picture1.jpg" alt="Alt text" style="width: 80%; height: auto;">
 A great opportunity to meet professionals in the field of mRNA therapy. Share the cutting-edge discoveries from experts in mRNA therapy field. Despite mRNA, this conference also shares the foremost technologies for LNP. 
 
 ## NAVIGATE women in STEM leadership workshop
