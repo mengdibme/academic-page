@@ -13,7 +13,7 @@ A great opportunity to meet professionals in the field of mRNA therapy. Share th
 **August 2021** 
 
 “A case-study approach to overcoming barriers to advancement for women in STEM”
-<img src="/img/Picture2.jpg" alt="Image Alt Text" class="conference-image" style="width: 80%; height: auto; display: block; margin-left: auto; margin-right: auto;" />
+<img src="https://github.com/mengdibme/academic-page/blob/master/static/img/Picture1.jpg?raw=true" alt="test5" class="conference-image" style="width: 80%; height: auto; display: block; margin-left: auto; margin-right: auto;" />
 *[Left: Dr. Liesl Folks (Host), right: Mengdi]*
 
 This event is supported by a National Science Foundation Research Traineeship award in the Innovations of Graduate Education Track. I learned a lot from this NAVIGATE project to increase the skills of STEM women to navigate effectively past adversity in the workforce. This workshop encourages me to persist in chosen disciplines and achieve leadership roles in science. In the future, I hope to provide my experiences and resources to motivate more women in STEM navigate success in leadership regardless of gender bias, discrimination, and inequity. 
